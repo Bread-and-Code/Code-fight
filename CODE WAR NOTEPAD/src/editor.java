@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.io.*; 
 import java.awt.event.*; 
 import javax.swing.plaf.metal.*; 
-import javax.swing.text.*;  
+import javax.swing.text.*;
 
 
 class editor extends JFrame implements ActionListener { 

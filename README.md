@@ -6,3 +6,10 @@ Question/Problem posts and Coding challenges. We will also be providing Freelanc
 Bounties. The Platform will be Like a Bar for Coding Bounty Hunters. You Play, Practice,
 Hunt and Earn. With each challenges and Bounties users will earn real money along with
 hunt points like breadkrumbs which will be redeemable for swags.
+
+
+
+
+
+
+https://github.com/Eadgyth/Programming-Editor/blob/master/src/eg/utils/Dialogs.java
